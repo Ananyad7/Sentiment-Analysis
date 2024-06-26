@@ -22,6 +22,9 @@ This dataset consists of 278,101 records of customer reviews about certain produ
 ![image](https://github.com/Ananyad7/Sentiment-Analysis/assets/164981636/332d9296-ce9a-407b-adc5-66df4c20358d)
 
 Given the variability in feedback length, Python's Natural Language Toolkit (nltk) was used to accurately extract keywords and analyze data.
+<a href="https://github.com/Ananyad7/Sentiment-Analysis/blob/main/Keywords_extraction.ipynb" target="_blank">Script Link</a>
+
+
 ![image](https://github.com/Ananyad7/Sentiment-Analysis/assets/164981636/3be7723f-479b-42ab-9141-433153656448)
 
 
