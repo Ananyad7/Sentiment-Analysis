@@ -60,7 +60,7 @@ The most important KPIs used include Current Year vs Previous Year positive sent
 5. Poor customer service experiences, delays in support resolution, and potential product defects or quality concerns could contribute to higher dissatisfaction. Regular monitoring of these aspects is crucial to maintain customer satisfaction and address issues promptly.
 6. Focus on maintaining high standards for products customers frequently praise. Improve training and response times to address common issues related to 'wrong' or 'accidental' experiences.Clearly communicate product features and usage instructions to reduce misunderstandings.In the overall data, 278k sentiments were recorded, but approximately 13% of reviewers did not provide any feedback. Actively encourage customers to provide feedback as it plays a crucial role in sentiment analysis, helping to improve products and services based on customer experiences.
 
-Linkedin link: https://www.linkedin.com/posts/7ananyadas_sentiment-analysis-and-trends-dashboard-activity-7211729449401085953-7Q3J?utm_source=share&utm_medium=member_desktop
+Linkedin link: Soon!
 
 icons:Flaticon
 <a href="https://www.flaticon.com/free-icons/globe" title="globe icons">Globe icons created by srip - Flaticon</a>
